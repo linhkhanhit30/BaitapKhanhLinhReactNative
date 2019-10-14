@@ -1,2 +1,2 @@
 # BaitapKhanhLinhReactNative
-<img src="https://i.imgur.com/PbQVQQv.png" width="200"/> 
+<img src="https://imgur.com/UtLEHlS" width="200"/> 
